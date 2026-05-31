@@ -1,0 +1,23 @@
+// {
+// 	"servers": {
+// 		"copado-native": {
+// 			"type": "stdio",
+// 			"command": "enter",
+// 			"args": []
+// 		}
+// 	},
+// 	"inputs": []
+// }
+
+{
+	"servers": {
+		"copado-native": {
+			"type": "stdio",
+			"command": "/Users/sanidhyagupta/Documents/vs code/HACKATHONS/copadacon/.venv/bin/python3",
+			"args": [
+				"/Users/sanidhyagupta/Documents/vs code/HACKATHONS/copadacon/server.py"
+			]
+		}
+	},
+	"inputs": []
+}

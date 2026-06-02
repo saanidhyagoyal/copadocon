@@ -1,14 +1,3 @@
-// {
-// 	"servers": {
-// 		"copado-native": {
-// 			"type": "stdio",
-// 			"command": "enter",
-// 			"args": []
-// 		}
-// 	},
-// 	"inputs": []
-// }
-
 {
 	"servers": {
 		"copado-native": {
